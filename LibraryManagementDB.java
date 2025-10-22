@@ -36,7 +36,7 @@ public class LibraryManagementDB extends JFrame implements ActionListener {
         JPanel mainPanel = new JPanel(new GridBagLayout());
         mainPanel.setBorder(BorderFactory.createTitledBorder(
                 BorderFactory.createLineBorder(Color.GRAY, 2, true),
-                "Book Information", 0, 0,
+                "Book Management", 0, 0,
                 new Font("Segoe UI", Font.BOLD, 22), Color.DARK_GRAY
         ));
         add(mainPanel, BorderLayout.CENTER);
