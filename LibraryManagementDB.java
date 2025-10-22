@@ -305,3 +305,5 @@ public class LibraryManagementDB extends JFrame implements ActionListener {
         new LibraryManagementDB();
     }
 }
+//javac -cp ".;mysql-connector-j-9.4.0.jar" LibraryManagementDB.java(1st command to compile)
+//java -cp ".;mysql-connector-j-9.4.0.jar" LibraryManagementDB(2nd command)
